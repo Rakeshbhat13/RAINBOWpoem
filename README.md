@@ -1,2 +1,3 @@
 # RAINBOWpoem
-a song on rainbow
+
+a song on rainbow in  the key of c major
